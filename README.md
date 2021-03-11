@@ -22,9 +22,9 @@
 
 ## How it works?
 
-### At first the script will try read a maximum of 30k tweets for the hastags. It goes as far back as twitter api allows to read. Then it will sleep for *SLEEP_TIME* in **.env** and read *ITEM_LIMIT* tweets when it wakes up. This will repeat for 1400 times unles it is explicitly set higher or lower
+#### At first the script will try read a maximum of 30k tweets for the hastags. It goes as far back as twitter api allows to read. Then it will sleep for *SLEEP_TIME* in **.env** and read *ITEM_LIMIT* tweets when it wakes up. This will repeat for 1400 times unles it is explicitly set higher or lower
 
-### I wrote this script to delpoy it on a free-tier ec2 and keep it running until I am satisified with the number of tweets collected
+#### I wrote this script to delpoy it on a free-tier ec2 and keep it running until I am satisified with the number of tweets collected
 
 ## How do I run it?
 
