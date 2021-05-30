@@ -2,7 +2,7 @@
 
 ## Description
 
-### This is a simple script to fetch tweets unsing Twitter API based on hashtag_phrase. The hashtags can be added in the .env file including fields for API keys. This script writes all the data fetched in .csv file. It does not query historical data.
+This is a simple script to fetch tweets unsing Twitter API based on hashtag_phrase. The hashtags can be added in the .env file including fields for API keys. This script writes all the data fetched in .csv file. It does not query historical data.
 
 ## How do I run it?
 

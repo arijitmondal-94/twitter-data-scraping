@@ -2,7 +2,7 @@
 The hashtags can be added in the .env file including fields for API keys. This script
 writes all the data fetched in .csv file. 
 
-Returns:
+Writes:
     .csv: Fteched tweets are written in this file.
 """
 import tweepy
